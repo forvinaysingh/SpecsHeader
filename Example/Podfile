@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SpecsHeader_Example' do
+  pod 'SpecsHeader', :path => '../'
+
+  target 'SpecsHeader_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "SpecsHeader",
+  "version": "0.1.0",
+  "summary": "A short description of SpecsHeader.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Vinay Singh/SpecsHeader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vinay Singh": "vinay.singh@girnarsoft.com"
+  },
+  "source": {
+    "git": "https://github.com/Vinay Singh/SpecsHeader.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SpecsHeader/Classes/**/*"
+}
